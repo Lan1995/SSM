@@ -1,4 +1,4 @@
-package DAO;
+package com.wisely.Controller;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

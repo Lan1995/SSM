@@ -1,13 +1,13 @@
 package com.wisely.demo;
 
-public class Person {
+public class PersonTest {
 	private String name;
 	private int age;
-	public Person() {
+	public PersonTest() {
 		super();
 	}
 	
-	public Person(String name, int age) {
+	public PersonTest(String name, int age) {
 		super();
 		this.name = name;
 		this.age = age;
