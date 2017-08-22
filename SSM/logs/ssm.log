@@ -1,0 +1,125 @@
+[INFO] [2017-08-2215:26:25][com.ssm.test.mybatis.mytest]
+[INFO] [2017-08-2215:26:55][com.ssm.test.mybatis.mytest]
+[INFO] [2017-08-2215:27:45][com.ssm.test.mybatis.mytest]
+[INFO] [2017-08-2215:29:58][com.ssm.test.mybatis.mytest]
+[INFO] 2017-08-22 15:35:54 [main] INFO  [com.ssm.test.mybatis.mytest] - 
+[INFO] 2017-08-22 16:24:44 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 16:24:44 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 16:24:44 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 16:27:47 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 16:27:47 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 16:27:47 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[WARN] 2017-08-22 16:27:47 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.cn.hnust.dao]' package. Please check your configuration.
+[INFO] 2017-08-22 16:27:47 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 16:29:02 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 16:29:02 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 16:29:02 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[WARN] 2017-08-22 16:29:02 [main] WARN  [org.mybatis.spring.mapper.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.cn.hnust.dao]' package. Please check your configuration.
+[INFO] 2017-08-22 16:29:02 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 16:31:38 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 16:31:38 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 16:31:38 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 16:31:39 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 16:32:50 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 16:32:50 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 16:32:51 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 16:32:51 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 16:33:19 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 16:33:19 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 16:33:19 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 16:33:20 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 16:34:17 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 16:34:17 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 16:34:17 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 16:34:17 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 16:36:18 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 16:36:18 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 16:36:18 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 16:36:18 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 16:40:12 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 16:40:12 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 16:40:12 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 16:40:12 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 16:44:36 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 16:44:36 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 16:44:36 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 16:44:36 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 16:48:45 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@67784306: startup date [Tue Aug 22 16:48:45 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 16:48:45 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 16:48:46 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 16:51:56 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 16:51:56 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 16:51:56 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 16:51:56 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 16:55:38 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 16:55:38 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 16:55:38 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 16:55:38 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 16:56:37 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 16:56:37 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 16:56:37 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 16:56:37 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 16:57:47 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 16:57:47 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 16:57:47 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 16:57:47 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 17:01:09 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 17:01:09 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 17:01:09 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 17:01:09 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 17:04:28 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 17:04:28 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 17:04:28 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 17:04:28 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 17:05:32 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 17:05:32 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 17:05:32 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 17:05:32 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 17:13:07 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 17:13:07 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 17:13:07 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 17:13:07 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 17:16:27 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 17:16:27 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 17:16:27 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 17:16:27 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 17:16:50 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 17:16:50 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 17:16:50 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 17:16:50 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 17:19:42 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 17:19:42 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 17:19:42 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 17:19:42 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 17:27:33 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 17:27:33 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 17:27:34 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 17:27:34 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 17:29:45 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 17:29:45 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 17:29:45 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 17:29:45 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 17:36:49 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 17:36:49 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 17:36:49 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 17:36:49 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 17:36:50 [main] INFO  [com.ssm.test.mybatis.mytest] - 值：测试
+[INFO] 2017-08-22 17:36:50 [main] INFO  [com.ssm.test.mybatis.mytest] - {"age":24,"id":1,"password":"sfasgfaf","userName":"测试"}
+[INFO] 2017-08-22 17:37:34 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 17:37:34 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 17:37:34 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 17:37:34 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 17:37:51 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 17:37:51 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 17:37:51 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 17:37:51 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 17:37:52 [main] INFO  [com.ssm.test.mybatis.mytest] - 值：测试
+[INFO] 2017-08-22 17:37:52 [main] INFO  [com.ssm.test.mybatis.mytest] - {"age":24,"id":1,"password":"sfasgfaf","userName":"测试"}
+[INFO] 2017-08-22 17:38:57 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 17:38:57 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 17:38:57 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 17:38:57 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 17:38:57 [main] INFO  [com.ssm.test.mybatis.MyBatis] - 值：测试
+[INFO] 2017-08-22 17:38:57 [main] INFO  [com.ssm.test.mybatis.MyBatis] - {"age":24,"id":1,"password":"sfasgfaf","userName":"测试"}
+[INFO] 2017-08-22 17:46:45 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 17:46:45 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 17:46:45 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 17:46:45 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 17:48:06 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 17:48:06 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 17:48:06 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 17:48:06 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 17:48:28 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 17:48:28 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 17:48:28 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 17:48:28 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 17:58:12 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 17:58:12 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 17:58:12 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 17:58:12 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 18:05:23 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 18:05:23 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 18:05:23 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 18:05:23 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 18:05:30 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 18:05:30 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 18:05:30 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 18:05:30 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 18:06:38 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 18:06:38 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 18:06:38 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 18:06:38 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 18:07:26 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 18:07:26 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 18:07:26 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 18:07:26 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 18:09:45 [main] INFO  [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@75a1cd57: startup date [Tue Aug 22 18:09:45 CST 2017]; root of context hierarchy
+[INFO] 2017-08-22 18:09:45 [main] INFO  [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] 2017-08-22 18:09:45 [main] INFO  [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [db.properties]
+[INFO] 2017-08-22 18:09:45 [main] INFO  [com.ssm.test.mybatis.MyBatis] - 值：测试
+[INFO] 2017-08-22 18:09:45 [main] INFO  [com.ssm.test.mybatis.MyBatis] - {"age":24,"id":1,"password":"sfasgfaf","userName":"测试"}
