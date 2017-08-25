@@ -12,12 +12,11 @@ public class userServiceimpl implements userService {
 
 	@Autowired
 	private UserDao usermapper;
-	@Override
+	
 	public User getUserById(Integer id) {
 		// TODO Auto-generated method stub
 		return usermapper.selectByPrimaryKey(id);
 	}
-	@Override
 	public Integer add(User u) {
 		return usermapper.insert(u);
 	}
