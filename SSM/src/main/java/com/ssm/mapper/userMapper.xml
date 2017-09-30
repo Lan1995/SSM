@@ -29,7 +29,7 @@
     values (#{id,jdbcType=INTEGER}, #{userName,jdbcType=VARCHAR}, #{password,jdbcType=VARCHAR}, 
       #{age,jdbcType=INTEGER})
   </insert>
-  <insert id="insertSelective" parameterType="com.ssm.bean.User" >
+  <insert id="insertSelective" parameterType="com.ssm.bean.User" useGeneratedKeys="true" >
     insert into user_t
     <trim prefix="(" suffix=")" suffixOverrides="," >
       <if test="id != null" >
