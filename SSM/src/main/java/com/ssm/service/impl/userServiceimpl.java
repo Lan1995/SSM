@@ -11,14 +11,19 @@ import com.ssm.service.userService;
 public class userServiceimpl implements userService {
 
 	@Autowired
-	private UserDao usermapper;
+	private UserDao userdao;
 	
 	public User getUserById(Integer id) {
 		// TODO Auto-generated method stub
-		return usermapper.selectByPrimaryKey(id);
+		return userdao.selectByPrimaryKey(id);
 	}
 	public Integer add(User u) {
-		return usermapper.insert(u);
+		return userdao.insert(u);
+	}
+	@Override
+	public Integer Insert(User user) {
+		// TODO Auto-generated method stub
+		return userdao.insertSelective(user);
 	}
 
 }
