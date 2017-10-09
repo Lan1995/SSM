@@ -12,19 +12,35 @@ import com.ssm.Dao.UserDao;
 import com.ssm.bean.User;
 import com.ssm.service.userService;
 
-@Service("userService")
+@Service
 public class userServiceimpl implements userService {
 
 	@Autowired
 	private UserDao userdao;
 	
+	public userServiceimpl() {
+		super();
+		System.out.println("-----------bean加载begin---------");
+		System.out.println("默认构造函数");
+		System.out.println("-----------bean加载end---------");
+	}
+		
+	public userServiceimpl(UserDao userdao) {
+		super();
+		System.out.println("-----------beanbegin---------");
+		this.userdao = userdao;
+		System.out.println("-----------bean加载end---------");
+	}
+
 	public User getUserById(Integer id) {
 		// TODO Auto-generated method stub
 		return userdao.selectByPrimaryKey(id);
 	}
+	
 	public Integer add(User u) {
 		return userdao.insert(u);
 	}
+	
 	@Override
 	@Transactional
 	public Integer Insert(User user) {
@@ -32,7 +48,7 @@ public class userServiceimpl implements userService {
 		return userdao.insertSelective(user);
 	}
 	@Override
-	@Transactional(rollbackFor=Exception.class)
+	@Transactional
 	public Integer InsertUserList(List<User> list) {
 		// TODO Auto-generated method stub
 		int result = 0;

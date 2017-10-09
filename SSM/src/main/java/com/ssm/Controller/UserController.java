@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.ssm.bean.User;
 import com.ssm.service.userService;
+import com.ssm.util.GetRequestParameter;
 import com.ssm.util.Message;
 
 @Controller
@@ -24,10 +25,23 @@ public class UserController extends Message{
 	private Logger logger = Logger.getLogger(UserController.class);
 	
 	@Autowired
-	private userService userService;
+	private GetRequestParameter getrequestparam;
 	
 	@Autowired
-	private Message message;
+	private HttpServletRequest request;
+		
+	public UserController() {
+		super();
+		System.out.println("--------Controller的bean加载begin---------");
+		System.out.println("默认构造函数");
+		System.out.println("--------Controller的bean加载end-----------");
+	}
+
+	@Autowired
+	private userService userService;
+	
+//	@Autowired
+//	private Message message;
 	
 	@RequestMapping("/getUser")
 	public String getUser(HttpServletRequest request,Model model){
@@ -41,7 +55,7 @@ public class UserController extends Message{
 	@RequestMapping("/insertUser")
 	@ResponseBody
 	public Message addUser(User user){
-		
+	
 		int result = userService.Insert(user);
 		return message(result>0,"成功","失败");
 	}
